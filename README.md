@@ -52,19 +52,11 @@ GreenAura is a comprehensive Android mobile application designed to make gardeni
 
 ## 🔒 License & Permissions
 
-**All Rights Reserved © 2025 by Mahalakshmi Thanga Monica P  and Navya M**
+**All Rights Reserved © 2025 by Mahalakshmi Thanga Monica P  **
 
 This project is the intellectual property of the authors .
 
 📌 Unauthorized copying, modification, or distribution is **strictly prohibited**.  
-
----
-
-## 📦 Download
-
-> **[⬇️ Download APK (from GitHub Releases)](https://github.com/your-username/greenaura/releases)**  
-(*Upload your APK to GitHub Releases and update this link*)
-
 ---
 
 ## 🔮 Future Enhancements
@@ -96,5 +88,4 @@ This project is the intellectual property of the authors .
 
 
 
----
 
