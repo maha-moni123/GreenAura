@@ -92,7 +92,7 @@ class BuyNowActivity : AppCompatActivity() , PaymentResultListener{
 
                 // Razorpay payment initiation
                 val checkout = Checkout()
-                checkout.setKeyID("rzp_test_1EQyeSHCwNoCy5")  // Add your Razorpay key here
+                checkout.setKeyID("")  // Add your Razorpay key here
 
 
                 try {
